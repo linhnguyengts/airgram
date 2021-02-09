@@ -3,6 +3,7 @@
   "private": true,
   "author": "Alexander Krisko",
   "license": "GPL-3.0",
+  "version": "1.0",
   "homepage": "https://airgram.io",
   "repository": "https://github.com/airgram/airgram",
   "scripts": {
